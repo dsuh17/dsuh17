@@ -26,7 +26,7 @@ Many more to come...
 **Virtualization:** VMware, Proxmox  
 **Scripting:** PowerShell, Bash
 
-### 📚 Learning
+### 📚 What I'm Currently Learning
 SELinux • Python scripting • Metasploit • AWS cloud services
 
 ### 🎓 Certifications
