@@ -27,7 +27,7 @@ Many more to come...
 **Scripting:** PowerShell, Bash
 
 ### 📚 What I'm Currently Learning
-SELinux • Python scripting • Metasploit • AWS cloud services
+Python scripting • Metasploit • AWS cloud services
 
 ### 🎓 Certifications
 - CompTIA Security+
