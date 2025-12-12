@@ -30,7 +30,8 @@ Many more to come...
 Python scripting • Metasploit • AWS cloud services
 
 ### 🎓 Certifications
-- CompTIA Trifecta
+- CompTIA Security+
+- CompTIA Network+
 - RHCSA (in progress)
 
 <br>
