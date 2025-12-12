@@ -15,7 +15,7 @@
 Passion for learning new skills. Actively working on server configurations, automations, and security hardening.
 
 ### 🚀 Projects I've Done
-- Fedora File and Media Server - Centralized storage via Samba and configured a portable media streaming setup with Tailscale and Jellyfin  
+- Fedora File and Media Server - Centralized storage via Samba and configured a secure portable media streaming setup with Tailscale and Jellyfin  
 - Windows Active Directory - Deployed and managed a secure AD environment with domain controllers, user/group management, access control
 
 Many more to come...
