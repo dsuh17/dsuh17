@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab]
-  - [Rocky 10 VM]
+  - [Linux File and Media Server]
+  - [Windows Active Directory]
 
 <h2>🏅 Certifications:</h2>
 
@@ -18,7 +18,6 @@
 <h3>✍️ What I'm Working On:</h3>
 
 - RHCSA
-- Linux
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
