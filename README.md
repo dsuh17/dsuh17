@@ -12,7 +12,7 @@
 
 ---
 ### 📝 About Me
-Passion for learning new skills. Actively working on server configurations, automations, and security hardening.
+Passion for learning new skills. Actively working on server configurations, automations, and security hardening. Currently pursuing Offsec.
 
 ### 🚀 Projects I've Done
 - Fedora File and Media Server - Centralized storage via Samba and configured a secure portable media streaming setup with Tailscale and Jellyfin  
@@ -22,17 +22,18 @@ Many more to come...
 
 ### 💻 Tech Stack
 **OS:** Windows, Red Hat, Mac  
-**Network & Security:** Wireshark, Nmap  
+**Network & Security:** Wireshark, Nmap, Kerberoasting  
 **Virtualization:** VMware, Proxmox  
 **Scripting:** PowerShell, Bash
 
 ### 📚 What I'm Currently Learning
-Python scripting • Metasploit • AWS cloud services
+Python scripting • Attacking AD • AWS cloud services
 
 ### 🎓 Certifications
 - CompTIA Security+
 - CompTIA Network+
 - RHCSA (in progress)
+- PJPT (in progress)
 
 <br>
 <p align="center">
